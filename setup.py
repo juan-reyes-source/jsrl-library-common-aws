@@ -48,7 +48,6 @@ if __name__ == "__main__":
         install_requires=[
             'boto3==1.35.80',
             'botocore==1.35.80',
-            's3transfer==0.10.4',
-            'aenum==3.1.15'
+            's3transfer==0.10.4'
         ]
     )
