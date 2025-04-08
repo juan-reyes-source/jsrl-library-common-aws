@@ -1,0 +1,8 @@
+# Aws packages
+boto3==1.35.80
+botocore==1.35.80
+s3transfer==0.10.4
+
+# Create library
+wheel
+setuptools
